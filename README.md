@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikp06
 - 👀 I’m interested in sports, games and machine learning
-- 🌱 I’m currently learning more about combining games and artificial intelligence as in [this video](https://youtu.be/W6qyRbmr_aA)
+- 🌱 I’m currently learning more about combining games and artificial intelligence as in [this project](https://youtu.be/W6qyRbmr_aA)
 [![Thumbnail](thumb6.png)](https://youtu.be/W6qyRbmr_aA)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:<br />
