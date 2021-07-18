@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikp06
 - 👀 I’m interested in sports, games and machine learning
+- 💞️ I’m looking to get better at programming and potentially one day earn a living with it
 - 🌱 I’m currently learning more about combining games and artificial intelligence as in [this project](https://youtu.be/W6qyRbmr_aA)
 [![Thumbnail](thumb6.png)](https://youtu.be/W6qyRbmr_aA)
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:<br />
 Twitter: [@killerplauze1](https://twitter.com/killerplauze1)<br />
 YouTube: [Niklas Petersen](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rEWTg)
