@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nikp06
 - 👀 I’m interested in sports, games and machine learning
 - 💞️ I’m looking to get better at programming and potentially one day earn a living with it
-- 🌱 I’m currently learning more about combining games and artificial intelligence as in [subwAI - my project on Subway Surfers](https://youtu.be/ZVSmPikcIP4) or [icyAI - my project on Icy Tower](https://youtu.be/W6qyRbmr_aA)
+- 🌱 I’m currently learning more about combining games and artificial intelligence as in my projects [subwAI](https://youtu.be/ZVSmPikcIP4) or [icyAI](https://youtu.be/W6qyRbmr_aA)
+
 [![cnn_snippet_gif](https://user-images.githubusercontent.com/64498892/134583570-edbcf211-cf12-45bf-a5cc-a9cd629fe083.gif)](https://youtu.be/ZVSmPikcIP4)
 Subway Surfers            |  Icy Tower
 :-------------------------:|:-------------------------:
