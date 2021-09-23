@@ -3,7 +3,6 @@
 - 💞️ I’m looking to get better at programming and potentially one day earn a living with it
 - 🌱 I’m currently learning more about combining games and artificial intelligence as in my projects [subwAI](https://youtu.be/ZVSmPikcIP4) or [icyAI](https://youtu.be/W6qyRbmr_aA)
 
-[![cnn_snippet_gif](https://user-images.githubusercontent.com/64498892/134583570-edbcf211-cf12-45bf-a5cc-a9cd629fe083.gif)](https://youtu.be/ZVSmPikcIP4)
 Subway Surfers            |  Icy Tower
 :-------------------------:|:-------------------------:
 [![](https://user-images.githubusercontent.com/64498892/134583570-edbcf211-cf12-45bf-a5cc-a9cd629fe083.gif)](https://youtu.be/ZVSmPikcIP4)  |  [![](https://user-images.githubusercontent.com/64498892/134584410-62ec421c-cbda-4a09-ac0e-bac03a816d8f.gif)](https://youtu.be/ZVSmPikcIP4)
