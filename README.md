@@ -5,7 +5,7 @@
 
 Subway Surfers            |  Icy Tower
 :-------------------------:|:-------------------------:
-[![](https://user-images.githubusercontent.com/64498892/134583570-edbcf211-cf12-45bf-a5cc-a9cd629fe083.gif)](https://youtu.be/ZVSmPikcIP4)  |  [![](https://user-images.githubusercontent.com/64498892/134584410-62ec421c-cbda-4a09-ac0e-bac03a816d8f.gif)](https://youtu.be/ZVSmPikcIP4)
+[![new_thumb](https://user-images.githubusercontent.com/64498892/139440607-6bb7b64e-b7c4-49b9-b54e-9433addf0688.png)  |  [![new_thumb](https://user-images.githubusercontent.com/64498892/139440668-e49244c3-7c1b-447e-a10d-c2252828b004.png)
 - 📫 How to reach me:<br />
 Twitter: [@killerplauze1](https://twitter.com/killerplauze1)<br />
 YouTube: [Niklas Petersen](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rEWTg)
@@ -14,3 +14,5 @@ YouTube: [Niklas Petersen](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rE
 nikp06/nikp06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
