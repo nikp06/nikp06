@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikp06
-- 👀 I’m interested in sports, games and machine learning
+- 👀 I’m interested in sports, programming and machine learning
 - 💞️ I’m continuously working on expanding my programming skillset and potentially one day earn a living with it
 - 🌱 I’m currently learning more about combining games and artificial intelligence as in my projects [subwAI](https://youtu.be/ZVSmPikcIP4) or [icyAI](https://youtu.be/W6qyRbmr_aA)
 
