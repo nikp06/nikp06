@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikp06
 - 📫 How to reach me:<br />
-LinkedIn: [Niklas Petersen](linkedin.com/in/niklas-petersen-41746416a)
+LinkedIn: [Niklas Petersen](linkedin.com/in/niklas-petersen-41746416a) |
 YouTube: [Niklas Petersen](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rEWTg)
 - 👀 I’m interested in sports, programming and machine learning
 - 💞️ I’m continuously working on expanding my programming skillset and potentially one day earn a living with it
