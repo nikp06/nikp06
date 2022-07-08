@@ -3,7 +3,7 @@
 LinkedIn: [Niklas Petersen](https://www.linkedin.com/in/niklas-petersen-41746416a/) |
 YouTube: [Niklas Petersen](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rEWTg)
 - 👀 I’m interested in sports, programming and machine learning
-- 💞️ I’m continuously working on expanding my programming skillset and potentially one day earn a living with it
+- 💞️ I’m continuously working on expanding my skillset
 - 🌱 I’m currently learning more about combining games and artificial intelligence as in my projects [subwAI](https://youtu.be/ZVSmPikcIP4) or [icyAI](https://youtu.be/W6qyRbmr_aA)
 
 Subway Surfers            |  Icy Tower
