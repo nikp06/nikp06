@@ -6,7 +6,7 @@
 Here are some of my YouTube-Videos from a time where i was especially interested in making AI's learn how to play video games:
 Subway Surfers            |  Icy Tower
 :-------------------------:|:-------------------------:
-[![new_thumb](https://user-images.githubusercontent.com/64498892/139440607-6bb7b64e-b7c4-49b9-b54e-9433addf0688.png)](https://youtu.be/ZVSmPikcIP4)  |  [![new_thumb]()](https://youtu.be/W6qyRbmr_aA)
+[![new_thumb](https://user-images.githubusercontent.com/64498892/139440607-6bb7b64e-b7c4-49b9-b54e-9433addf0688.png)](https://youtu.be/ZVSmPikcIP4)  |  [![new_thumb](9lHuhF.png)](https://youtu.be/W6qyRbmr_aA)
 
 
 
