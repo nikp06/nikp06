@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nikp06 - a Freelance Machine Learning Engineer based in Cologne, Germany! Also check out my [Website](https://nikpetersen.com) or my [YouTube](https://www.youtube.com/channel/UCV3IJuY11hfmjDomu6rEWTg)
-- 👀 I’m interested in sports, programming and machine learning
-- 💞️ I’m continuously working on expanding my skillset
-- 🌱 I’m currently learning about different ways of incorporating LLMs and GenAI to develop new and expand existing business ideas
 
 Here are some of my YouTube-Videos from a time where i was especially interested in making AI's learn how to play video games:
 Subway Surfers            |  Icy Tower
